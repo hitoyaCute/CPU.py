@@ -1,0 +1,16 @@
+1 wtc 10
+2 wriB 1
+3 wriS 1
+4 print 2
+5 push 0
+6 prcb 0
+7 wSono 0
+8 add 0 
+9 pull 0
+10 worbf 0
+11 push 0
+12 worbf 0
+13 pull 0
+14 pABtB 0
+15 pABtS 0
+16 jump 4
