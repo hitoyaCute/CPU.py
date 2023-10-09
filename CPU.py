@@ -127,7 +127,7 @@ def CPU(ins,insL):
 def ins_fetch():
 	insL = 0
 	ins = []
-	with open(f"{dir}/ins.as","r") as program:
+	with open(f"{dir}/fib.as","r") as program:
 		for line in program:
 			name, op_code, val = line.strip().split()
 			if int(name)-1 == insL:
